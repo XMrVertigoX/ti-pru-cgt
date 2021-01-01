@@ -1,0 +1,12 @@
+pkgbase = ti-pru-cgt
+	pkgdesc = TI PRU code generation tools
+	pkgver = 2.3.3
+	pkgrel = 1
+	url = https://www.ti.com/tool/PRU-CGT
+	arch = armv7h
+	license = GPL
+	source = http://software-dl.ti.com/codegen/esd/cgt_public_sw/PRU/2.3.3/ti_cgt_pru_2.3.3_armlinuxa8hf_busybox_installer.sh
+	sha256sums = 8390cb77b46b728ce2940595b81406f76d86dfed58c21258e3206a7c1232ccf2
+
+pkgname = ti-pru-cgt
+

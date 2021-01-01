@@ -1,0 +1,7 @@
+pkg/
+src/
+
+*.bin
+*.sh
+
+*.pkg.tar.zst
